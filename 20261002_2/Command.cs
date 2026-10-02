@@ -21,6 +21,8 @@ namespace _20261002_2
             UIDocument uidoc = commandData.Application.ActiveUIDocument;
             Document doc = uidoc.Document;
 
+            //추가해본다
+
             return Result.Succeeded;
         }
     }
